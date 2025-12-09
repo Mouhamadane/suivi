@@ -43,11 +43,12 @@
         <!-- GFET -->
         <section class="guichet-card gfetlogo">
             <div class="links">
-                <a href="#" class="btn">Formulaire de Supervision</a>
+                <a href="https://ee.kobotoolbox.org/x/sEwksJ46" class="btn">Formulaire de Supervision</a>
                 <a href="#" class="btn">Formulaire d'Evaluation&nbsp&nbsp&nbsp&nbsp </a>
+                <br>
             </div>
         </section>
-
+    <br>
     </main>
 
     <footer class="footer">
